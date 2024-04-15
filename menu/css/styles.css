@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: 13px;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "XROT" 0,
+        "YROT" 0;
+}
+
+body{
+    margin:0;
+    color: black;
+}
+
+img{
+    height: 70vh;
+    object-fit: cover;
+    justify-content: center;
+}
+
+#logo{
+    margin: 0%;
+    width: 50px;
+    height: 50px;
+}
+
+
+.fondo {
+    background-image: url('../img/fondo.jpg');
+	background-size: cover;
+    background-position: center;
+}
+table th {
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+}
+table td {
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+}
+.container-fluid{
+    background-color: rgb(199, 67, 47);
+}
+@media only screen and (max-width:800px) {
+    *{
+        font-size: 0.6rem;
+        margin: 1px;
+    }
+    .fuente {
+        width: 10%;
+    }
+    table {
+        max-width: none; /* Eliminar cualquier ancho máximo establecido previamente */
+        width: 100%; /* Tabla ocupa el 100% del contenedor */
+    }
+    img{
+        height: 40vh;
+    }
+    .titulo1{
+        width: 10%;
+    }
+    .titulo2{
+        width: 10%;
+    }
+    .titulo3{
+        width: 10%;
+    }
+    .titulo4{
+        width: 10%;
+    }
+    .titulo5{
+        width: 10%;
+    }
+}

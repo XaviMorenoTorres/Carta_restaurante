@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+    <menu plato="Pizzas">
+      <title>Pizza Vegana</title>
+      <description>12.00€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+      <calorias>137.2 Kcal</calorias>
+      <descripcion>Cubierta con salsa de tomate fresca y una variedad de verduras como champiñones, pimientos, cebollas, espinacas y tomates. </descripcion>
+    </menu>
+    <menu plato="Pizzas">
+      <title>Pizza Jamon y queso</title>
+      <description>10.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+      <calorias>197.2 Kcal</calorias>
+      <descripcion>Esta pizza combina la deliciosa simplicidad del jamón y el queso derretido con la base tradicional de salsa de tomate y masa de pizza.</descripcion>
+    </menu>
+    <menu plato="Pizzas">
+      <title>Pizza de Pesto y Tomate Seco</title>
+      <description>11.00€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+      <calorias>167.6 Kcal</calorias>
+      <descripcion>Cubierta con pesto de albahaca, tomates secos, queso de cabra desmenuzado, y un toque de rúcula fresca.</descripcion>
+    </menu>
+    <menu plato="Pizzas">
+      <title>Pizza Barbacoa</title>
+      <description>14.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+      <calorias>167.6 Kcal</calorias>
+      <descripcion>Cubierta con salsa BBQ, trozos de pollo a la parrilla, cebolla roja, maíz dulce y queso cheddar</descripcion>
+    </menu>
+    <menu plato="Pizzas">
+      <title>Pizza de Atún</title>
+      <description>11.50€</description>
+      <ingredientes>
+      <caracteristicas>Pescado</caracteristicas>
+      <caracteristicas>Lacteo</caracteristicas>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+      <calorias>141.6 Kcal</calorias>
+      <descripcion>Cubierta con salsa de tomate fresca, trozos de atún en conserva, rodajas de cebolla, aceitunas verdes, queso mozzarella y un toque de orégano</descripcion>
+    </menu>
+    <menu plato="Pescados">
+      <title>Salmón a la Parrilla </title>
+      <description>16.50€</description>
+      <ingredientes>
+      <caracteristicas>Pescado</caracteristicas>
+      </ingredientes>
+      <calorias>321.9 Kcal</calorias>
+      <descripcion>Filete de salmón fresco a la parrilla, acompañado de una selección de verduras asadas al horno.</descripcion>
+    </menu>
+    <menu plato="Pescados">
+      <title>Merluza al Horno</title>
+      <description>14.00€</description>
+      <ingredientes>
+      <caracteristicas>Pescado</caracteristicas>
+      </ingredientes>
+      <calorias>176.3 Kcal</calorias>
+      <descripcion>Filete de merluza fresca horneado con hierbas aromáticas y limón, acompañado de patatas asadas al horno con romero</descripcion>
+    </menu>
+    <menu plato="Pescados">
+      <title>Sardinas a la Brasa</title>
+      <description>13.80€</description>
+      <ingredientes>
+      <caracteristicas>Pescado</caracteristicas>
+      </ingredientes>
+      <calorias>172.9Kcal</calorias>
+      <descripcion>Sardinas frescas asadas a la parrilla con un toque de limón y perejil, servidas con rebanadas de pan tostado y untadas con tomate fresco y ajo.</descripcion>
+    </menu>
+    <menu plato="Pescados">
+      <title>Bacalao al Pil Pil</title>
+      <description>16.90€</description>
+      <ingredientes>
+      <caracteristicas>Pescado</caracteristicas>
+      </ingredientes>
+      <calorias>211.1 Kcal</calorias>
+      <descripcion>Lomos de bacalao cocinados lentamente en aceite de oliva con ajo, creando una deliciosa salsa pil pil, servidos con espárragos trigueros a la parrilla.</descripcion>
+    </menu>
+    <menu plato="Pasta">
+      <title>Spaghetti Carbonara</title>
+      <description>11.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+      <calorias>451.33 Kcal</calorias>
+      <descripcion>Spaghetti cocidos al dente, mezclados con una salsa cremosa de huevo, panceta, queso parmesano rallado y pimienta negra molida</descripcion>
+    </menu>
+    <menu plato="Pasta">
+      <title>Tagliatelle 4 quesos</title>
+      <description>13.50€</description>
+      <ingredientes>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+      <calorias>291.4 Kcal</calorias>
+      <descripcion>Una deliciosa combinación de tagliatelle al dente y una suave salsa de cuatro quesos. Gorgonzola, parmesano, mozzarella y fontina</descripcion>
+    </menu>
+    <menu plato="Pasta">
+      <title>Lasaña de Espinacas y Ricotta</title>
+      <description>15.00€</description>
+      <ingredientes>
+      <caracteristicas>Lacteo</caracteristicas>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+      <calorias>380.7 Kcal</calorias>
+      <descripcion>Una lasaña gratinada rellena de espinacas frescas, ricotta cremosa y salsa de tomate casera, perfecta para los amantes de la comida reconfortante.</descripcion>
+    </menu>
+    <menu plato="Pasta">
+      <title>Spaghetti Carbonara</title>
+      <description>12.00€</description>
+      <ingredientes>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+      <calorias>480.9 Kcal</calorias>
+      <descripcion>Un clásico italiano. Spaghetti al dente con una cremosa salsa de huevo, panceta crujiente, queso parmesano y un toque de pimienta negra.</descripcion>
+    </menu>
+    <menu plato="Pasta">
+      <title>Penne carbonara</title>
+      <description>14.90€</description>
+      <ingredientes>
+      <caracteristicas>Lacteo</caracteristicas>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+      <calorias>321.6 Kcal</calorias>
+      <descripcion>Una tentadora fusión de pasta penne al dente, bañada en una exquisita salsa carbonara. Preparada con panceta crujiente, yema de huevo fresca</descripcion>
+    </menu>
+    <menu plato="Pasta">
+      <title>Rigatoni pesto</title>
+      <description>12.95€</description>
+      <ingredientes>
+      <caracteristicas>Lacteo</caracteristicas>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+      <calorias>421.6 Kcal</calorias>
+      <descripcion>Pasta de forma tubular, se encuentran con una salsa pesto fresca y aromática.</descripcion>
+    </menu>
+    <menu plato="Postres">
+      <title>Tarta de queso</title>
+      <description>6.50€</description>
+      <ingredientes>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+      <calorias>391.6 Kcal</calorias>
+      <descripcion>Una base de galletas crujientes y un relleno sedoso elaborado con queso crema de la más alta calidad.</descripcion>
+    </menu>
+    <menu plato="Postres">
+      <title>Tarta de zanahoria</title>
+      <description>6.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+      <calorias>491.6 Kcal</calorias>
+      <descripcion>Perfecta para los amantes del chocolate, esta tarta es el final perfecto para una comida memorable.</descripcion>
+    </menu>
+    <menu plato="Postres">
+      <title>Tarta de chocolate</title>
+      <description>5.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+      <calorias>691.6 Kcal</calorias>
+      <descripcion>Una base de galletas crujientes y un relleno sedoso elaborado con queso crema de la más alta calidad.</descripcion>
+    </menu>
+    <menu plato="Postres">
+      <title>Pudín de Mango y Coco</title>
+      <description>4.75€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+      <calorias>320.9 Kcal</calorias>
+      <descripcion>Un delicioso pudín con sabores tropicales de mango y coco, perfecto para los amantes de los postres ligeros y exóticos.</descripcion>
+    </menu>
+
+<menu plato="Postres">
+      <title>Cheesecake de Frutos Rojos</title>
+      <description>6.25€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+      <calorias>450.2 Kcal</calorias>
+      <descripcion>Una suculenta cheesecake con una base crujiente y un exquisito relleno de crema de anacardos y frutos rojos frescos.</descripcion>
+    </menu>
+</menus>
+
